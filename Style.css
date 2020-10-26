@@ -1,0 +1,58 @@
+.attribution { font-size: 11px; text-align: center;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+html, body{
+    font-family: 'karla', sans-serif;
+}
+
+
+.section-one{
+    padding: 20px;
+}
+h1{
+    color: cadetblue;
+    font-size: 22px
+}
+.yellow{
+    color: yellowgreen;
+}
+.grey{
+    color: grey;
+    font-size: 18px
+}
+
+.grid{
+    color: white;
+    display: grid;
+    grid-auto-columns: auto auto
+}
+.dollar{
+    font-size: 30px
+}
+.left{
+    background-color: cadetblue;
+    padding: 30px
+}
+button{
+    background-color:#ccff66;
+    color: burlywood;
+    width: 200px;
+    height: 80px;
+    border: none;
+    margin: 16px;
+    font-size: 20px;
+}
+.right{
+    float: right;
+    background-color:#7ac5cd;
+    padding: 40px;
+ }
+.text{
+    font-size: 18px
+}
+.full{
+    font-size: 13px
+}
+.tutorials{
+    font-size: 16px
+}
